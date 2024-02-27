@@ -41,14 +41,14 @@ html {
     align-items: center;
   }
   .header {
-    padding-top: 50px;
-    padding-bottom: 50px;
+    padding: 50px 0;
     display: flex;
     justify-content: space-between;
     align-items: center;
   }
   .header__menubar {
     display: flex;
+    justify-content: space-between;
     gap: 50px;
     color: rgb(41, 47, 54);
     font-family: "Jost", sans-serif;

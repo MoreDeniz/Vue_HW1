@@ -44,12 +44,11 @@ a:visited {
 }
 
 .header {
+  width: 1200px;
   display: flex;
-  padding-top: 50px;
-  padding-bottom: 50px;
+  padding: 50px 0;
   justify-content: space-between;
   align-items: center;
-  gap: 760px;
 }
 .header__menubar {
   display: flex;
